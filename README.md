@@ -23,10 +23,7 @@ pipeline; built shelf-life estimation calibrated against postharvest research.
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sanjanapulla06&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sanjanapulla06&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanapulla06&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sanjanapulla06&icon=0&color=2)](https://visitcount.itsvg.in)
