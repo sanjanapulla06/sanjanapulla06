@@ -4,11 +4,7 @@ Currently building ShelfSense AI (an ensemble ML system for fruit freshness dete
 and preparing a Wazuh-based SOC lab. Completed a Cybersecurity internship at GE Aerospace, 
 working on OT/IT asset audit automation and process digitization.
 
-# Featured Project
-**[ShelfSense AI](https://github.com/sanjanapulla06/shelfsense-ai)** — Ensemble ML system 
-(EfficientNetB0 + XGBoost/LightGBM/CatBoost/NN) for fruit freshness classification, 
-achieving 98.7% accuracy. Diagnosed and fixed critical data leakage issues in the training 
-pipeline; built shelf-life estimation calibrated against postharvest research.
+
 
 # Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
